@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/1e440ace-8560-4e12-850e-c532740711e7
 
 The Instant Video Creation Tool is designed to simplify and automate the process of creating videos. It leverages an integrated machine learning (ML) model to enhance video processing, providing users with an intuitive and efficient way to produce high-quality videos
 
-#Features
+# Features
 
 1. Core Features: Essential video creation and editing tools.
 2. User Interface: Designed for ease of use, providing a seamless experience.
