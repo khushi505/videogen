@@ -20,3 +20,10 @@ The Instant Video Creation Tool is designed to simplify and automate the process
 8. User Feedback Mechanism: Collects user feedback for continuous improvement.
 
 
+# USP
+
+1. Automated Video Generation: Converts text input into video content using AI.
+2. API Integration: Leverages OpenAI and Pexels APIs for enhanced functionality.
+3. Ease of Use: Simple setup and usage process.
+4. Customizable: Open-source project allowing for community-driven improvements.
+5. Versatile Applications: Useful for content creators, marketers, and developers looking to automate video production.
